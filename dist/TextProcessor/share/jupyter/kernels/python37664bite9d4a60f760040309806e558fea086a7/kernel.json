@@ -1,0 +1,39 @@
+{
+  "argv": [
+    "C:\\Users\\anas-1024\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3.7.6 64-bit",
+  "language": "python",
+  "env": {},
+  "metadata": {
+    "interpreter": {
+      "architecture": 3,
+      "path": "C:\\Users\\anas-1024\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "C:\\Users\\anas-1024\\AppData\\Local\\Programs\\Python\\Python37",
+      "fileHash": "6a9368c170415f8742e8523170b5dbaa81630e4f23feb974bc093459b798647bdec3c15e77b3f3ac880847c49bd3a0bc304365bc8e16cba08985786fd570105d",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown",
+      "displayName": "Python 3.7.6 64-bit"
+    }
+  }
+}
