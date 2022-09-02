@@ -7,14 +7,12 @@ And extract its data [sender, receiver, receiver phone number, amount, destinati
 
 ## Technologies
 
-Project is created with:
+Project was created with:
 * Python version: 3.7
 * PyQt5 library version: 5.15.4
 * OpenPyxl library version: 3.0.5
 
 
-## Setup
-To run this project, Clone repository and run the project.
 
 
 ## Usage
@@ -29,3 +27,6 @@ You can export the output list into excel file by click export as xlsx.
 
  Only arabic messages are supported.
 	
+## ScreenShots
+![image](https://user-images.githubusercontent.com/41675092/188081023-3eebf8e9-8742-4154-bade-45d47ae73a6f.png)
+![image](https://user-images.githubusercontent.com/41675092/188082088-8470ee82-4a4b-449c-9a7f-74fb82c77334.png)
