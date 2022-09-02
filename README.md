@@ -19,7 +19,7 @@ To run this project, Clone repository and run the project.
 
 ## Usage
 
-copy any Money Transfer from whatsapp in the natural form and past it into textarea, Click Generate to see the output in the below fields
+copy any Money Transfer from whatsapp in the natural form and paste it into the textarea, Click Generate to see the output in the below fields
 If you want to copy multiple messages you  must enabel batch mode, Enabling Auto Adding will make the program generate the output and it 
 Automtically into the output list.
 You can export the output list into excel file by click export as xlsx.
